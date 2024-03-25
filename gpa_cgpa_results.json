@@ -1,0 +1,17 @@
+{
+    "semesters": [
+        {
+            "semester_file": "semester1.csv",
+            "gpa": 7.93,
+            "total_credit_hours": 27.0,
+            "total_grade_points": 214.0
+        },
+        {
+            "semester_file": "semester2.csv",
+            "gpa": 6.63,
+            "total_credit_hours": 43.0,
+            "total_grade_points": 285.0
+        }
+    ],
+    "overall_cgpa": 7.13
+}
